@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">AISAS 营销漏斗与小红书数据</title>
+  <desc id="desc">五层漏斗分别为注意、兴趣、搜索、行动、分享，右侧列出小红书可观察的数据。</desc>
+  <rect width="1600" height="900" rx="44" fill="#F8FCFE"/>
+  <g fill="none" stroke="#0F2A44" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M138 118 C250 77 433 75 545 119" opacity=".18"/>
+    <circle cx="108" cy="725" r="19"/>
+    <path d="M108 744v67m-34-35 34-22 35 22m-35 35-31 43m31-43 31 43"/>
+    <path d="M144 744c43-50 70-91 84-139"/>
+    <path d="M214 604l17 1-7 16"/>
+  </g>
+  <circle cx="108" cy="765" r="9" fill="#48A944"/>
+
+  <text x="118" y="76" fill="#0F2A44" font-family="Arial, PingFang SC, sans-serif" font-size="24" font-weight="700" letter-spacing="3">FROM VIEW TO INQUIRY · 从看见到咨询</text>
+
+  <g font-family="Arial, PingFang SC, sans-serif" text-anchor="middle">
+    <path d="M280 130H900L845 260H335Z" fill="#00509D"/>
+    <text x="590" y="184" fill="#fff" font-size="36" font-weight="800">ATTENTION</text>
+    <text x="590" y="226" fill="#fff" font-size="29">注意 · 被看见</text>
+
+    <path d="M335 272H845L790 402H390Z" fill="#74BDE0"/>
+    <text x="590" y="326" fill="#0F2A44" font-size="36" font-weight="800">INTEREST</text>
+    <text x="590" y="368" fill="#0F2A44" font-size="29">兴趣 · 愿意继续看</text>
+
+    <path d="M390 414H790L735 544H445Z" fill="#C6E7F2" stroke="#74BDE0" stroke-width="3"/>
+    <text x="590" y="468" fill="#0F2A44" font-size="36" font-weight="800">SEARCH</text>
+    <text x="590" y="510" fill="#0F2A44" font-size="29">搜索 · 主动了解</text>
+
+    <path d="M445 556H735L690 686H490Z" fill="#48A944"/>
+    <text x="590" y="610" fill="#fff" font-size="36" font-weight="800">ACTION</text>
+    <text x="590" y="652" fill="#fff" font-size="29">行动 · 咨询或留言</text>
+
+    <path d="M490 698H690L735 824H445Z" fill="#0F2A44"/>
+    <text x="590" y="750" fill="#fff" font-size="36" font-weight="800">SHARE</text>
+    <text x="590" y="792" fill="#fff" font-size="29">分享 · 转发与推荐</text>
+  </g>
+
+  <g font-family="Arial, PingFang SC, sans-serif" fill="#0F2A44">
+    <text x="980" y="126" font-size="26" font-weight="800" fill="#00509D">REDNOTE SIGNALS · 小红书看什么</text>
+    <g transform="translate(980 166)">
+      <rect width="485" height="104" rx="22" fill="#E8F5FA" stroke="#74BDE0" stroke-width="2"/>
+      <text x="28" y="39" font-size="24" font-weight="800">ATTENTION · 注意</text>
+      <text x="28" y="76" font-size="23">曝光量 · 推荐页 / 搜索页来源</text>
+    </g>
+    <g transform="translate(980 286)">
+      <rect width="485" height="104" rx="22" fill="#F1F8FB" stroke="#74BDE0" stroke-width="2"/>
+      <text x="28" y="39" font-size="24" font-weight="800">INTEREST · 兴趣</text>
+      <text x="28" y="76" font-size="23">封面点击 · 阅读 / 完播 · 收藏</text>
+    </g>
+    <g transform="translate(980 406)">
+      <rect width="485" height="104" rx="22" fill="#F7FBFD" stroke="#74BDE0" stroke-width="2"/>
+      <text x="28" y="39" font-size="24" font-weight="800">SEARCH · 搜索</text>
+      <text x="28" y="76" font-size="23">品牌词 / 品类词 · 主页访问</text>
+    </g>
+    <g transform="translate(980 526)">
+      <rect width="485" height="104" rx="22" fill="#EFF8EF" stroke="#48A944" stroke-width="2"/>
+      <text x="28" y="39" font-size="24" font-weight="800">ACTION · 行动</text>
+      <text x="28" y="76" font-size="23">私信 · 评论询问 · 联系入口</text>
+    </g>
+    <g transform="translate(980 646)">
+      <rect width="485" height="104" rx="22" fill="#EEF2F5" stroke="#0F2A44" stroke-width="2"/>
+      <text x="28" y="39" font-size="24" font-weight="800">SHARE · 分享</text>
+      <text x="28" y="76" font-size="23">分享 · 转发后的新增访问与询问</text>
+    </g>
+    <rect x="980" y="780" width="485" height="60" rx="18" fill="#00509D"/>
+    <text x="1222" y="819" text-anchor="middle" fill="#fff" font-size="24" font-weight="800">一千次曝光 → 三次询问：断点在哪里？</text>
+  </g>
+</svg>
